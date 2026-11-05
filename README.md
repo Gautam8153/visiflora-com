@@ -1,2 +1,0 @@
-# visiflora-com
-Static site

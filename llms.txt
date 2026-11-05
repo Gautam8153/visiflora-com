@@ -1,0 +1,26 @@
+# VisiFlora
+
+> VisiFlora is a Eye Health Supplement. VisiFlora is a 100% natural, plant-based dietary supplement created to support eye health, visual clarity, retinal function, and the everyday eye fatigue that comes from long hours in front of screens. Its formula leans on botanical antioxidants and plant-derived nutrients that nourish the eyes from the inside, helping you stay comfortable and focused through screen-heavy workdays, evening reading, and driving after dark. VisiFlora is designed as a simple daily habit — a natural alternative for adults who want to be proactive about their vision rather than waiting for strain to build up.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://visiflora-com.onrender.com/)
+- [What VisiFlora is](https://visiflora-com.onrender.com/what-is-product.html)
+- [How VisiFlora works](https://visiflora-com.onrender.com/how-it-works.html)
+- [VisiFlora ingredients, explained individually](https://visiflora-com.onrender.com/ingredients.html)
+- [VisiFlora benefits](https://visiflora-com.onrender.com/benefits.html)
+- [VisiFlora customer reviews](https://visiflora-com.onrender.com/reviews.html)
+- [VisiFlora frequently asked questions](https://visiflora-com.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying VisiFlora](https://visiflora-com.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at VisiFlora — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://visiflora-com.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using VisiFlora's own label as a real example of what to look for.
+- [VisiFlora: An Honest Review](https://visiflora-com.onrender.com/blog/visiflora-honest-review.html): An honest look at VisiFlora — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Lutein vs Zeaxanthin: What Each Does In VisiFlora](https://visiflora-com.onrender.com/blog/lutein-vs-zeaxanthin.html): Lutein and Zeaxanthin are both in VisiFlora but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement VisiFlora](https://visiflora-com.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with VisiFlora as part of a eye health routine.
+- [VisiFlora FAQ: Dosage, Timing, Who Should Skip It](https://visiflora-com.onrender.com/blog/visiflora-faq.html): Common questions about VisiFlora — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://visiflora-com.onrender.com/terms.html)
+- [Privacy Policy](https://visiflora-com.onrender.com/privacy-policy.html)
+- [Disclaimer](https://visiflora-com.onrender.com/disclaimer.html)
+- [Refund Policy](https://visiflora-com.onrender.com/refund-policy.html)
+- [About Us](https://visiflora-com.onrender.com/about.html)
+- [Contact Us](https://visiflora-com.onrender.com/contact.html)
